@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "[tktk Module Name]",
-    "name": "tktk",
+    "friendlyName": "Python Object-Oriented Programming",
+    "name": "python-object-oriented-programming",
     "type": "Lesson"
   },
   "courses": [
@@ -20,21 +20,71 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Concepts",
-          "dirName": "concepts",
+          "friendlyName": "Intro to OOP",
+          "dirName": "intro-to-oop",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Microlesson 01",
-          "dirName": "microlesson-01",
+          "friendlyName": "Classes",
+          "dirName": "classes",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Microlesson 02",
-          "dirName": "microlesson-02",
-          "type": "Level Up content",
+          "friendlyName": "Wrap Up",
+          "dirName": "wrap-up",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false
+    },
+    {
+      "name": "pps",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Intro to OOP",
+          "dirName": "intro-to-oop",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Classes",
+          "dirName": "classes",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Wrap Up",
+          "dirName": "wrap-up",
+          "type": "Content",
           "videoUrl": ""
         }
       ],

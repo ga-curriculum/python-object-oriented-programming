@@ -42,10 +42,10 @@ class Admin(User):
     def __init__(self, username):
         super().__init__(username)
 
-def suspend_user(username):
-    for user in User.all_users:
-        if user.username == username:
-            user.can_post = False
+    def suspend_user(username):
+        for user in User.all_users:
+            if user.username == username:
+                user.can_post = False
 ```
 
 Note the `super` method. It accesses the parent class. Why do we want to call the parent's `__init__` function?

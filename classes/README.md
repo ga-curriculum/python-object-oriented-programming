@@ -45,7 +45,7 @@ Classes create consistent patterns for objects to follow. Once data starts getti
 
 **Data types** are the most foundational classes in programming: String, Integer, List, Dictionary...these are all classes that Python uses under the hood.
 
-For example, every List we've made has the same methods: append, pop, prepend, and so on.
+For example, every List we've made has the same methods: `append()`, `pop()`, `prepend()`, and so on.
 
 ```python
 colors = ["red", "green", "blue"]
@@ -84,7 +84,7 @@ Answers should include things like Users, Posts, Comments, and so on. It's impor
 
 ## Defining a Class
 
-To start defining a function, we simply use the class keyword like so:
+To start defining a class, we simply use the `class` keyword like so:
 
 ```python
 class Dog:
@@ -104,7 +104,7 @@ This would create two different objects of the Dog class.
 
 ## Setting Up the Init Method
 
-Then, the first part of ANY class will be the `__init__` method. This method will define the process of creating, or **instantiating**, a new object of the class. Within the **init** method, we have access to a self object that represents the individual object we're creating. It must be the first parameter in every init.
+Then, the first part of ANY class will be the `__init__` method. This method will define the process of creating, or **_instantiating_**, a new object of the class. Within the **_init_** method, we have access to a self object that represents the individual object we're creating. It must be the first parameter in every init.
 
 ```python
 class Dog:

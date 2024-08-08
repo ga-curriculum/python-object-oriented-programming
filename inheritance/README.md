@@ -3,7 +3,7 @@
   <span class="subhead">Inheritance</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to
+**Learning objective:** By the end of this lesson, students will be able to explain the concept of inheritance in object-oriented programming, create subclasses that inherit properties and methods from a parent class, and utilize the `super()` function to extend and customize class behavior.
 
 | Lesson      | Duration |
 | ----------- | -------- |
@@ -52,10 +52,12 @@ Note the `super` method. It accesses the parent class. Why do we want to call th
 
 > The `super()` pattern can be super annoying when learning inheritance. We need to use it so that Admins are created with all the same steps as a regular User.
 
-## Solo Exercise: Bands Part 2 20 min TKTK Optional Extra Practice
+# Optional Practice
+
+## Solo Exercise: Bands Part 2 20 min TKTK
 
 Create subclasses that inherit from the Band class created earlier according to specifications described in the Jupyter Notebook.
 
-## Solo Exercise: RPG Characters 45 min TKTK Optional Extra Practice
+## Solo Exercise: RPG Characters 45 min TKTK
 
 Use inheritance to set up a combat simulation for a Role-Playing Game. The Character class will set up default properties for every character in the game, while the more specific classes will create more interesting, playable characters.

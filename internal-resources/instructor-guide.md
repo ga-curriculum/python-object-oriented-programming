@@ -44,13 +44,14 @@ For review or extension topics, review the notes in the pre-work for recommendat
 
 ## Suggested Agenda
 
-| Time      | Activity                                     |
-| --------- | -------------------------------------------- |
-| 0:00–0:30 | Classes                                      |
-| 0:30–0:45 | First Class                                  |
-| 0:45–1:15 | House of Cards                               |
-| 1:30–1:50 | Getting the Band Together                    |
-| 1:50–2:00 | Wrapping Up, Q&A, and Exit Ticket Completion |
+| Time      | Activity                      |
+| --------- | ----------------------------- |
+| 0:00–0:10 | Welcome and Intro to OOP      |
+| 0:10–0:55 | Classes                       |
+| 0:55–1:05 | **Break**                     |
+| 1:05–1:45 | Classes (cont...)             |
+| 1:45–1:55 | Inheritance                   |
+| 1:55–2:00 | Wrap Up, Q&A, and Exit Ticket |
 
 ## Jupyter Notebook
 

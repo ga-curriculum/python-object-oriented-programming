@@ -5,4 +5,4 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [Python Docs : Classes](https://docs.python.org/3/tutorial/classes.html)

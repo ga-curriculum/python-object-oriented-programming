@@ -4,20 +4,20 @@
   <span class="headline">Python Object-Oriented Programming</span>
 </h1>
 
-tktk add some default course navigation content here.
+## About
 
-tktk This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+In this module, you'll learn the foundational concepts of Object-Oriented Programming (OOP) in Python. You'll start by understanding what it means for Python to be an object-oriented language, then dive into creating and working with classes and objects. The module will also cover how to use inheritance to create more efficient and organized code.
 
 ## Content
 
-| Lesson                                                   | Skills                                  |
-| -------------------------------------------------------- | --------------------------------------- |
-| [Setup](./setup/README.md)                               | Setting up the development environment. |
-| [Concepts](./concepts/README.md)                         | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk skills covered                     |
+| Lesson                                    | Skills                                                                    |
+| ----------------------------------------- | ------------------------------------------------------------------------- |
+| [Setup](../setup/README.md)               | Setting up the development environment.                                   |
+| [Intro to OOP](../intro-to-oop/README.md) | Understanding the basics of Object-Oriented Programming (OOP) concepts.   |
+| [Classes](../classes/README.md)           | Defining classes, instantiating objects, and creating instance variables. |
+| [Inheritance](../inheritance/README.md)   | Understanding and implementing inheritance in Python.                     |
+| [Wrap Up](../wrap-up/README.md)           | Reviewing key concepts and preparing for the next module.                 |
 
-## Level Up content
+## References
 
-| Lesson                                                   | Skills              |
-| -------------------------------------------------------- | ------------------- |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk skills covered |
+📖 [Reference Materials](../references/README.md)

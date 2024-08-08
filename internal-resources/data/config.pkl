@@ -25,6 +25,7 @@ courses {
       mls.setup
       mls.introToOop
       mls.classes
+      mls.inheritance
       mls.wrapUp
     }
   }
@@ -34,6 +35,7 @@ courses {
       mls.setup
       mls.introToOop
       mls.classes
+      mls.inheritance
       mls.wrapUp
     }
 }

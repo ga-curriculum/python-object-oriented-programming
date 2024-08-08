@@ -23,6 +23,13 @@ classes = new Template.Microlesson {
   videoUrl = ""
 }
 
+inheritance = new Template.Microlesson {
+  friendlyName = "Inheritance"
+  dirName = "inheritance"
+  type = "Content"
+  videoUrl = ""
+}
+
 wrapUp = new Template.Microlesson {
   friendlyName = "Wrap Up"
   dirName = "wrap-up"

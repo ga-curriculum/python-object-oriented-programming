@@ -32,6 +32,12 @@
           "videoUrl": ""
         },
         {
+          "friendlyName": "Inheritance",
+          "dirName": "inheritance",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
           "friendlyName": "Wrap Up",
           "dirName": "wrap-up",
           "type": "Content",
@@ -78,6 +84,12 @@
         {
           "friendlyName": "Classes",
           "dirName": "classes",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Inheritance",
+          "dirName": "inheritance",
           "type": "Content",
           "videoUrl": ""
         },

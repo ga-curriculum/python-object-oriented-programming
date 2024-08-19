@@ -15,7 +15,7 @@ At their most basic, classes are templates for creating objects. These new objec
 
 A class defines characteristics (properties) and actions (methods) common to a group of objects. For instance, a `Car` class might specify properties like `make`, `model`, and `color` and a method like `drive()`. When we create individual cars (instances) from this class, each car inherits these properties and methods, allowing us to assign specific values (for example, a red Honda Civic) and perform actions (driving the car).
 
-> 🍎 Classes offer a straightforward and efficient way to create reusable parts of an application.
+> 💡 Classes offer a straightforward and efficient way to create reusable parts of an application.
 
 ![A Car class and its instances. The class has make, model, and color properties, which has been used to make 3 cars - an orange Ford Bronco, a red Honda Civic, and a blue BMW i4.](./assets/car-class-and-instances.png)
 
@@ -39,7 +39,7 @@ All cars have things that make them a Car. Although the details might be differe
 
 Classes create consistent patterns for objects to follow. Once data starts getting complex, as in dictionaries/objects, it's all the more important to create ways to maintain consistency.
 
-> 🍎 You might also be familiar with the idea of Classes from Taxonomy in Biology. All members of a class share specific properties that mark them as belonging to that class.
+> 💡 You might also be familiar with the idea of Classes from Taxonomy in Biology. All members of a class share specific properties that mark them as belonging to that class.
 
 ## We've Been Using Classes All Along!
 
@@ -70,7 +70,12 @@ To start, we're going to:
 
 > Creating our own class is useful when we have a bunch of data that all represents the same type of information. They help us ensure consistency among all the objects of a specific type.
 
-## Discussion: Classes in Applications TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">Classes in Applications</h2>
+  <span class="minutes"></span>
+</div>
 
 Think about a standard social media application: what kinds of data might this app use Classes to represent?
 
@@ -100,7 +105,7 @@ rover = Dog()
 
 This would create two different objects of the Dog class.
 
-> 🍎 Note the capitalization, which is a strongly held python convention indicating when a custom Class has been created.
+> 💡 Note the capitalization, which is a strongly held python convention indicating when a custom Class has been created.
 
 ## Setting Up the Init Method
 
@@ -115,9 +120,14 @@ class Dog:
 fido = Dog("Fido", 8)
 ```
 
-> 🍎 Note that we don't have to explicitly call the `__init__` method, i.e. we're not typing `Dog.__init__()`. Anything with double-underscores typically happens under the hood, without us having to explicitly call it. The double-underscore indicates what is known as a "magic method" pattern of Python.
+> 💡 Note that we don't have to explicitly call the `__init__` method, i.e. we're not typing `Dog.__init__()`. Anything with double-underscores typically happens under the hood, without us having to explicitly call it. The double-underscore indicates what is known as a "magic method" pattern of Python.
 
-## Discussion: Useful Patterns in the Init Method
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">Useful Patterns in the <code>Init()</code> Method</h2>
+  <span class="minutes"></span>
+</div>
 
 Within the init method, we can perform all sorts of useful validating and standardizing procedures. What's the logic behind this init method?
 
@@ -132,7 +142,7 @@ class Dog:
             self.name = name
 ```
 
-> 🍎 We're validating the age input by changing any negative numbers to 0, since negative age doesn't make sense. We're also setting a universal value, good_dog, that can't be done differently by the user. It can feel like every property MUST be declared as a parameter in the init method, but this demonstrates early how arbitrary properties can be added within the init method.
+> 💡 We're validating the age input by changing any negative numbers to 0, since negative age doesn't make sense. We're also setting a universal value, good_dog, that can't be done differently by the user. It can feel like every property MUST be declared as a parameter in the init method, but this demonstrates early how arbitrary properties can be added within the init method.
 
 ## Default Values in Methods
 
@@ -157,17 +167,31 @@ default_dog = Dog()
 - This is useful when we want to be able to provide customization for specific cases, but typically use the same value.
 - For example, file storage services might use a "private: false" for the default, publicly visible files users upload, but allow privacy when requested.
 
-## Solo Exercise: First Class 15 min TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">7.1 First Class</h2>
+  <span class="minutes">15 min</span>
+</div>
 
 In this exercise, we'll practice setting up a class for musicians, then create several instances of this class.
+
+Complete the exercises in **Section 7.1** of your notebooks.
 
 - Create a `class` for musical artists called `Musician`.
 - Musicians should have `name` and `genre` properties set by parameters in the `__init__` method. The default genre should be `"Pop"`.
 - Musicians should also have an `albums_sold` property that always starts at `0`.
 
-## Group Exercise: House of Cards 30 min TKTK
+<br>
+
+<div class="activity group-exercise">
+  <h2 class="title">7.2 House of Cards</h2>
+  <span class="minutes">30 min</span>
+</div>
 
 Now, let's use classes to programmatically create a full deck of playing cards.
+
+Complete the exercises in **Section 7.2** of your notebooks.
 
 1. First, create a Card class with two properties:
 
@@ -233,7 +257,12 @@ TypeError: speak() takes 0 positional arguments but 1 was given
 
 Python automatically provides `self` to every method that gets called. If our methods aren't defined to expect this, we get the error above.
 
-## Discussion: Tea Time TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">Tea Time</h2>
+  <span class="minutes"></span>
+</div>
 
 What might a class for a TeaCup look like? What properties and methods could the class have?
 
@@ -271,7 +300,14 @@ class TeaCup:
 - Since we have access to the self property, a lot of methods will access or modify other properties within the object.
 - How we might want to enhance that last method? What if we try to drink more than the total amount remaining? Does a negative amount number make sense? If not, how can we validate against that? This should be a recurring theme among classes: the ability to validate operations when creating or modifying objects in a specific way.
 
-## Partner Exercise: Getting the Band Back Together 30 min TKTK
+<br>
+
+<div class="activity partner-exercise">
+  <h2 class="title">7.3 Getting the Band Back Together</h2>
+  <span class="minutes">30 min</span>
+</div>
+
+Complete the exercises in **Section 7.3** of your notebooks.
 
 Let's create a class for `Bands`. A `Band` should have the following properties and methods:
 

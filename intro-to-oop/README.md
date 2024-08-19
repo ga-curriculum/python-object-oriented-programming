@@ -33,9 +33,14 @@ What if we told you that every variable you've ever declared in Python has been 
 
 ![Image Placeholder](TKTK)
 
-> 🍎 So far, we've learned plenty of data types, both primitive and complex. Objects attempt to represent data in a way that feels familiar to how we interact with things in the real world. An object is a thing.
+> 💡 So far, we've learned plenty of data types, both primitive and complex. Objects attempt to represent data in a way that feels familiar to how we interact with things in the real world. An object is a thing.
 
-## Discussion: Properties and Methods TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">Properties and Methods</h2>
+  <span class="minutes"></span>
+</div>
 
 All objects have **properties** and **methods**. **Methods** are functions that objects can perform, such as when a list uses `.append()` or `.pop()`.
 

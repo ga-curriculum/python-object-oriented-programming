@@ -54,10 +54,24 @@ Note the `super` method. It accesses the parent class. Why do we want to call th
 
 # Optional Practice
 
-## Solo Exercise: Bands Part 2 20 min TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">7.4 Bands Part 2</h2>
+  <span class="minutes">20 min</span>
+</div>
+
+Complete the exercises in **Section 7.4** of your notebooks.
 
 Create subclasses that inherit from the Band class created earlier according to specifications described in the Jupyter Notebook.
 
-## Solo Exercise: RPG Characters 45 min TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">7.5 RPG Characters</h2>
+  <span class="minutes">45 min</span>
+</div>
+
+Complete the exercises in **Section 7.5** of your notebooks.
 
 Use inheritance to set up a combat simulation for a Role-Playing Game. The Character class will set up default properties for every character in the game, while the more specific classes will create more interesting, playable characters.

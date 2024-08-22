@@ -49,13 +49,13 @@ For review or extension topics, review the notes in the pre-work for recommendat
 | 0:00–0:10 | Welcome and Intro to OOP      |
 | 0:10–0:55 | Classes                       |
 | 0:55–1:05 | **Break**                     |
-| 1:05–1:45 | Classes (cont...)             |
+| 1:05–1:45 | Classes (continued)           |
 | 1:45–1:55 | Inheritance                   |
 | 1:55–2:00 | Wrap Up, Q&A, and Exit Ticket |
 
 ## Jupyter Notebook
 
-The exercises referenced in this lesson can be found in the [Python Workbooks Repo](#).
+The exercises referenced in this lesson can be found in the [Python Fundamentals Exercises Repo](https://git.generalassemb.ly/modular-curriculum-all-courses/python-fundamentals-exercises).
 
 Our first few lessons begin by reviewing the notebook as the same material was covered in the pre-work.
 

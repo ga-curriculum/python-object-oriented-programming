@@ -266,7 +266,7 @@ Python automatically provides `self` to every method that gets called. If our me
 
 What might a class for a TeaCup look like? What properties and methods could the class have?
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 <details>
 <summary>✅ Click to see the answer: </summary>

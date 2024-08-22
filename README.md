@@ -14,7 +14,7 @@ In this module, you'll learn the foundational concepts of Object-Oriented Progra
 | 0:00–0:10 | Welcome and Intro to OOP      |
 | 0:10–0:55 | Classes                       |
 | 0:55–1:05 | **Break**                     |
-| 1:05–1:45 | Classes (cont...)             |
+| 1:05–1:45 | Classes (continued)           |
 | 1:45–1:55 | Inheritance                   |
 | 1:55–2:00 | Wrap Up, Q&A, and Exit Ticket |
 

@@ -31,7 +31,7 @@ Object-oriented programming (OOP) is a programming paradigm that uses objects to
 
 What if we told you that every variable you've ever declared in Python has been one type all along: **objects**!
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 > 💡 So far, we've learned plenty of data types, both primitive and complex. Objects attempt to represent data in a way that feels familiar to how we interact with things in the real world. An object is a thing.
 
@@ -46,7 +46,7 @@ All objects have **properties** and **methods**. **Methods** are functions that 
 
 _Let's say we're trying to represent a car as a Python object. What properties and methods would a car have? What properties would all cars have?_
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 <details>
 <summary>✅ Click to see the answer: </summary>

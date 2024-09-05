@@ -17,7 +17,7 @@ A class defines characteristics (properties) and actions (methods) common to a g
 
 > 💡 Classes offer a straightforward and efficient way to create reusable parts of an application.
 
-![A Car class and its instances. The class has make, model, and color properties, which has been used to make 3 cars - an orange Ford Bronco, a red Honda Civic, and a blue BMW i4.](./assets/car-class-and-instances.png)
+<img src="./assets/car-class-and-instances.png" alt="A Car class and its instances. The class has make, model, and color properties, which has been used to make 3 cars - an orange Ford Bronco, a red Honda Civic, and a blue BMW i4." style="width: 800px; height: auto;">
 
 > 📚 An _instance_ is an object produced by a class, containing all the properties and behaviors defined by that class.
 

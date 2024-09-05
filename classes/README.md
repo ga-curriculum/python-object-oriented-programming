@@ -35,7 +35,7 @@ All cars have things that make them a Car. Although the details might be differe
 - Method: Can drive.
 - Method: Can park.
 
-![Image Placeholder](./assets/car-bluprint.png)
+<img src="./assets/car-blueprint.png" alt="Car Blueprint Image" style="width: 800px; height: auto;">
 
 Classes create consistent patterns for objects to follow. Once data starts getting complex, as in dictionaries/objects, it's all the more important to create ways to maintain consistency.
 
@@ -266,7 +266,7 @@ Python automatically provides `self` to every method that gets called. If our me
 
 What might a class for a TeaCup look like? What properties and methods could the class have?
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/speech-bubble.png" alt="Speech Bubble Image" style="width: 300px; height: auto;">
 
 <details>
 <summary>✅ Click to see the answer: </summary>

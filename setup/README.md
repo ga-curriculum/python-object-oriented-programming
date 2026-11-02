@@ -5,7 +5,7 @@
 
 ## Setup
 
-The practice exercises for this lesson can be found in the `07. Object Oriented Programming.ipynb` file of the [Python Fundamentals Exercises](https://git.generalassemb.ly/modular-curriculum-all-courses/python-fundamentals-exercises) repository.
+The practice exercises for this lesson can be found in the `07. Object Oriented Programming.ipynb` file of the [Python Fundamentals Exercises](https://github.com/ga-curriculum/python-fundamentals-exercises) repository.
 
 ### Prepare Your Environment
 

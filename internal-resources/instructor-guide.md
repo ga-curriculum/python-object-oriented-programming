@@ -55,7 +55,7 @@ For review or extension topics, review the notes in the pre-work for recommendat
 
 ## Jupyter Notebook
 
-The exercises referenced in this lesson can be found in the [Python Fundamentals Exercises Repo](https://git.generalassemb.ly/modular-curriculum-all-courses/python-fundamentals-exercises).
+The exercises referenced in this lesson can be found in the [Python Fundamentals Exercises Repo](https://github.com/ga-curriculum/python-fundamentals-exercises).
 
 Our first few lessons begin by reviewing the notebook as the same material was covered in the pre-work.
 
